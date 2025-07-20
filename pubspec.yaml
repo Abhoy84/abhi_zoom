@@ -1,6 +1,8 @@
 name: abhi_zoom
-description: "A widget that enables zoom and pan gestures."
-version: 0.0.2
+description: >
+  A lightweight Flutter widget that adds zoom and pan functionality to any child widget, 
+  ideal for images, maps, or custom interactive UIs.
+version: 0.0.3
 homepage: https://github.com/Abhoy84/abhi_zoom
 
 environment:
